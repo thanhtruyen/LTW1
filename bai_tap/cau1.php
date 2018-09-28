@@ -8,4 +8,4 @@
 			echo $number[$i];
 		}
 	}
-	?>
+	?> hello
